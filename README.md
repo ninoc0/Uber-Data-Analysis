@@ -1,4 +1,4 @@
-# Uber-Data-Analysis
+# Uber Data Analysis
 
 Nico O'Neill | [neoneill@syr.edu](mailto:neoneill@syr.edu)
 
