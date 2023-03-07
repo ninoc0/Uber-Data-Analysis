@@ -1,5 +1,7 @@
 # Uber-Data-Analysis
 
+Nico O'Neill|[neoneill@syr.edu](mailto:neoneill@syr.edu)
+
 This is my first project in R. Its purpose is to demonstrate the analytical abilities of R. 
 
 Taking public Uber data from the months April to September, we can create models of their most busy days. To find the models, check out the *issues*.
