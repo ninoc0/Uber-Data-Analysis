@@ -1,6 +1,6 @@
 # Uber-Data-Analysis
 
-Nico O'Neill|[neoneill@syr.edu](mailto:neoneill@syr.edu)
+Nico O'Neill | [neoneill@syr.edu](mailto:neoneill@syr.edu)
 
 This is my first project in R. Its purpose is to demonstrate the analytical abilities of R. 
 
